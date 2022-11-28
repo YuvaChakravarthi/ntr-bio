@@ -1,0 +1,44 @@
+.img{
+    height: 60px;
+    width:50px;
+}
+.head{
+    font-size:30px;
+    font-family:"Roboto";
+    color:red;
+
+
+}
+.bg{
+    background-color:white;
+    height: 100vh;
+    width: 100vw;
+    
+}
+.bgcolor{
+    color:red;
+
+}
+.bg {
+    background-color: white;
+}
+
+.head {
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.image {
+    border-radius: 16px;
+    width: 100%;
+}
+
+.link {
+    color: blue;
+}
+
+.border {
+    border-radius: 16px;
+}
